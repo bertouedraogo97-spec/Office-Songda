@@ -1,0 +1,19 @@
+{
+  "name": "Office Songda",
+  "short_name": "Songda",
+  "description": "Rédigez, corrigez et mettez en forme vos documents professionnels avec l'aide d'agents IA. Contrats, lettres, rapports, présentations, tableurs — tout, hors ligne.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#14161B",
+  "theme_color": "#14161B",
+  "lang": "fr",
+  "dir": "ltr",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
